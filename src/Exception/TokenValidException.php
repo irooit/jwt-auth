@@ -6,7 +6,7 @@
  * Time: 13:43
  */
 
-namespace Phper666\JwtAuth\Exception;
+namespace Irooit\JwtAuth\Exception;
 
 class TokenValidException extends \RuntimeException
 {
