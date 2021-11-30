@@ -39,7 +39,7 @@
     "scripts": {},
     "extra": {
         "hyperf": {
-            "config": "Phper666\\JwtAuth\\ConfigProvider"
+            "config": "Irooit\\JwtAuth\\ConfigProvider"
         }
     }
 }
